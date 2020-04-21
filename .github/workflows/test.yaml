@@ -1,0 +1,27 @@
+name: Build Hugo website
+on:
+  pull_request:
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    container:
+      image: archlinux:latest
+
+    steps:
+    - name: Prepare the build environment
+      run: pacman -Syu tree hugo git --noconfirm
+
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: 'true'
+
+    # Uses the build.sh script to create `api/v?/` endpoint
+    - name: Build the website
+      run: ./build.sh
+
+    # Lists the website tree for validation
+    - name: Website tree
+      run: tree public/
