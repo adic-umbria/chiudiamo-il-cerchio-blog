@@ -4,6 +4,9 @@ author: "Inés Corroto"
 date: 2020-04-21T12:00:00+02:00
 type: "page"
 description: "Something to show"
+tags: [
+    "in-app",
+]
 ---
 
 # ADiC Umbria

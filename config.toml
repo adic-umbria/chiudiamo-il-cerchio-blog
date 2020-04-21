@@ -19,3 +19,6 @@ copyright = ""
 
 [params.microblog]
 number = 1
+
+[outputs]
+taxonomy = ["html", "json"]
