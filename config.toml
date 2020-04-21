@@ -1,4 +1,15 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "it"
+title = "Chiudiamo il Cerchio"
 theme = "kissem"
+Paginate = 5
+enableRobotsTXT = true
+defaultContentLanguage = "it"
+
+[params.info]
+poweredby = false
+related = false
+copyright = ""
+
+[params.microblog]
+number = 1
