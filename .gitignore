@@ -8,4 +8,5 @@ hugo.darwin
 hugo.linux
 
 # Extra
+.firebase
 .node-version
