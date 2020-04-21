@@ -1,3 +1,6 @@
 [submodule "themes/kissem"]
 	path = themes/kissem
 	url = https://github.com/adic-umbria/kiss-em.git
+[submodule "themes/juliette"]
+	path = themes/juliette
+	url = https://github.com/adic-umbria/juliette.git

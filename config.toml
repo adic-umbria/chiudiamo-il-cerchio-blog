@@ -1,10 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "it"
 title = "ADiC Umbria"
-theme = "kissem"
 Paginate = 5
 enableRobotsTXT = true
 defaultContentLanguage = "it"
+
+# `kissem` is the blog theme
+# `juliette` is used to render pages over a static API
+theme = [
+    "kissem",
+    "juliette",
+]
 
 [params.info]
 poweredby = false
