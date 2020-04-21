@@ -3,12 +3,13 @@ title: "Il Progetto"
 author: "Inés Corroto"
 date: 2020-04-21T12:00:00+02:00
 description: "Something to show"
+type: "page"
 tags: [
     "chiudiamoilcerchio",
 ]
 ---
 
-# Chiudiamo il Cerchio!
+# Il Progetto
 
 Il progetto nasce con l’intento di diffondere una cultura dell'economia circolare.
 La economia circolare, infatti, non riguarda solo le grandi industrie ma è necessario
