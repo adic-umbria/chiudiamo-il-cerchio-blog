@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "it"
-title = "Chiudiamo il Cerchio"
+title = "ADiC Umbria"
 theme = "kissem"
 Paginate = 5
 enableRobotsTXT = true
