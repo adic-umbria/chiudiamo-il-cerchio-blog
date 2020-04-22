@@ -2,7 +2,7 @@
 title: "Il Progetto"
 author: "Inés Corroto"
 date: 2020-04-21T12:00:00+02:00
-description: "Something to show"
+description: "Il progetto Chiudiamo il Cerchio! nasce in Umbria con l'obiettivo di diffondere una cultura dell’economia circolare. La economia circolare, infatti, non riguarda solo le grandi industrie ma è necessario praticarla anche a livello domestico e locale."
 type: "page"
 tags: [
     "chiudiamoilcerchio",
