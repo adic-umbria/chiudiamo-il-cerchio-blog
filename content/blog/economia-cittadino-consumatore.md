@@ -1,7 +1,7 @@
 ---
 title: "Economia Circolare per i Consumatori"
 author: "Inés Corroto"
-date: 2020-04-21T12:00:00+02:00
+date: 2020-04-21T05:00:00+02:00
 type: "page"
 description: "Consigli per seguire uno stilo di vita compatibile con il modello di economia circolare"
 tags: [

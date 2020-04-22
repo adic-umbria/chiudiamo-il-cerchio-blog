@@ -1,7 +1,7 @@
 ---
 title: "Food Sharing"
 author: "Inés Corroto"
-date: 2020-04-21T12:00:00+02:00
+date: 2020-04-21T04:00:00+02:00
 type: "page"
 description: "Un sistema di ottimizzazione del cibo che verrebbe sprecato all’interno di una comunità attraverso l’utilizzo di piattaforme on-line."
 tags: [

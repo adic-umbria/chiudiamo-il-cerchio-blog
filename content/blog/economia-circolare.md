@@ -1,7 +1,7 @@
 ---
 title: "Economia Circolare"
 author: "Inés Corroto"
-date: 2020-04-21T12:00:00+02:00
+date: 2020-04-21T06:00:00+02:00
 type: "page"
 description: "Qui troverai la definizione di economia circolare, le sue caratteristiche e benefici."
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: "Link Utili"
 author: "Inés Corroto"
-date: 2020-04-21T12:00:00+02:00
+date: 2020-04-21T02:00:00+02:00
 description: "Qui troverai link utili sull’economia circolare e lo spreco alimentare."
 type: "page"
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: "Evita lo Spreco Alimentare"
 author: "Inés Corroto"
-date: 2020-04-21T12:00:00+02:00
+date: 2020-04-21T03:00:00+02:00
 description: "Consigli per evitare lo spreco alimentare a casa."
 type: "page"
 tags: [
