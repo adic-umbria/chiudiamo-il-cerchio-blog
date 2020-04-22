@@ -3,7 +3,7 @@ title: "Chi siamo"
 author: "Inés Corroto"
 date: 2020-04-21T12:00:00+02:00
 type: "page"
-description: "Something to show"
+description: "Il progetto nasce in un contesto territoriale fertile in cui, nei mesi passati, sono state promosse numerose iniziative sul tema dell’economia circolare. Conosci tutti i nostri progetti."
 tags: [
     "in-app",
 ]
