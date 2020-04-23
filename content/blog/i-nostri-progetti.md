@@ -11,3 +11,7 @@ tags: [
 # Tutti i progetti
 
 Testo di esempio.
+
+{{< external-link "Vademecum Acqua" "/pdf/vademecum_acqua.pdf" >}}
+
+{{< external-link "Chiudiamo il Cerchio!" "/pdf/chiudiamo_il_cerchio.pdf" >}}
