@@ -24,7 +24,7 @@ tags: [
 - Imballaggi: [Acciaio](http://www.consorzioricrea.org "Imballaggi in acciaio"), [alluminio](http://www.cial.it "Imballaggi in alluminio"), [carta](http://www.comieco.org "Imballaggi in carta"), [legno](http://www.rilegno.org "legno"), [plastica](http://www.corepla.it "plastica"), [vetro](http://www.coreve.it "vetro")
 - [Consorzio italiano compostatori](http://www.compost.it "Consorzio italiano compostatori")
 - Raccolta differenziata PERUGIA: [Dove lo butto](http://www.gesenu.it/pagina/dove-lo-butto-perugia "Dove lo butto")
-- [Raccolta differenziata Umbria](http://http://www.valleumbraservizi.it/index.php?option=com_content&view=article&id=526 "Raccolta differenziata Umbria")
+- [Raccolta differenziata Umbria](http://www.valleumbraservizi.it/index.php?option=com_content&view=article&id=526 "Raccolta differenziata Umbria")
 - [Raccolta differenziata TERNI](http://www.unviaggiochiamatoambiente.it/ "Raccolta differenziata TERNI")
 - Trasimeno Servizi Ambientali: [Raccolta porta a porta](http://www.tsaweb.eu/servizi_dettaglio.php?ids=1 "Raccolta porta a porta")
 - [Società Igiene Ambientale](http://www.siaambiente.it "Società Igiene Ambientale")
@@ -32,7 +32,6 @@ tags: [
 ### BUONE PRATICHE DI CONSUMO
 - [ENEA, Interventi di risparmio energetico](http://www.efficienzaenergetica.enea.it/servizi-per/cittadini/interventi-di-efficienza-e-risparmio-energetico-nelle-abitazioni/impianti.html "ENEA, Interventi di risparmio energetico")
 - [ENEA, Ogni KWh conta](http://www.efficienzaenergetica.enea.it/component/jdownloads/send/40%20-pubblicazioni/383-decaloghi-consigli-enea.html "ENEA, Ogni kw/h conta")
-- Risparmiare energia nelle proprie case (sindacati inquilini): [Vademecum energia](http://enershift.eu/wp-content/uploads/2020/03/Vademecum-per-gli-Inquilini.pdf "Vademecum energia")
 - Buone pratiche nel condominio: [Buone pratiche condominio](http://civicocinquepuntozero.it/download/rapporto-civico-5-0-2019-monitoraggi-estivi/ "Buone pratiche")
 - Risparmio consumo Perugia: [Decalogo comportamenti consumo](http://www.comune.perugia.it/resources/Energia/DecalogoComportamentiRisparmio.pdf "Decalogo comportamenti")
 - Etichetta energetica eletrodomestici: [ENEA, efficienza energetica](https://www.efficienzaenergetica.enea.it/servizi-per/cittadini/interventi-di-efficienza-e-risparmio-energetico-nelle-abitazioni/etichetta-energetica/etichetta-energetica-apparecchi.html "ENEA, efficienza energetica")
@@ -42,5 +41,5 @@ tags: [
 - [Spreco alimentare nell'UE](https://www.europarl.europa.eu/news/it/headlines/society/20170505STO73528/spreco-alimentare-nell-ue-milioni-di-tonnellate-nella-spazzatura-infografica "Spreco alimentare nell'UE")
 - [FAO, spreco alimentare](http://www.foodscovery.it/foodheroes-magazine/lo-scandalo-dello-spreco-cibo/ "FAO, spreco alimentare")
 - Recupero di cibo: [Banco alimentare](https://www.bancoalimentare.it/it "Banco alimentare")
-- [Consigli per non sprecare](http://https://ec.europa.eu/food/sites/food/files/safety/docs/fw_lib_tips_stop_food_waste_it.pdf "Consigli per non sprecare")
+- [Consigli per non sprecare](https://ec.europa.eu/food/sites/food/files/safety/docs/fw_lib_tips_stop_food_waste_it.pdf "Consigli per non sprecare")
 - Associazioni contro lo spreco: [Why Nok](http://www.whynok.com/ "Why Nok"), [Foodbusters](http://www.foodbusters.it/ "Foodbusters"), [Too Good To Go](https://toogoodtogo.it/it "Too Good To Go")
