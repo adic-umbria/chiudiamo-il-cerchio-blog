@@ -11,6 +11,8 @@ tags: [
 
 # ADiC Umbria
 
+{{< figure src="/images/logo_adic_umbria.jpg#c" width="40%" >}}
+
 L’A.Di.C, Associazione per i Diritti dei Cittadini, è una Associazione a carattere
 interregionale che opera in un sistema federale (attualmente Umbria-Toscana-Piemonte).
 Persegue finalità di solidarietà sociale, di uguaglianza nel campo della tutela dei diritti
@@ -25,6 +27,8 @@ componenti del Direttivo Nazionale.
 Visita il nostro sito [ADiC Umbria](http://www.adicumbria.it "ADiC Umbria")
 
 # Federconsumatori Terni
+
+{{< figure src="/images/logo_federconsumatori.png#c" width="40%" >}}
 
 La Federconsumatori è un’associazione senza scopo di lucro che ha come obiettivi prioritari
 l’informazione e la tutela dei consumatori ed utenti. Alla sua costituzione hanno
