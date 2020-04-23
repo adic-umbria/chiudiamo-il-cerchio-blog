@@ -22,6 +22,8 @@ servizi nei campi della responsabilità sociale, ambientale, economica ed istitu
 A.Di.C. Umbria, Toscana e Piemonte sono federate a Movimento Consumatori Nazionale e sono
 componenti del Direttivo Nazionale.
 
+Visita il nostro sito [ADiC Umbria](http://www.adicumbria.it "ADiC Umbria")
+
 # Federconsumatori Terni
 
 La Federconsumatori è un’associazione senza scopo di lucro che ha come obiettivi prioritari
@@ -32,3 +34,5 @@ dell'informazione e del Parlamento, impegnati da anni in difesa dei diritti dei 
 La Federconsumatori che già, da trent'anni opera con competenza e professionalità nella
 difesa dei diritti dei consumatori, ha promosso molteplici iniziative, incontri, dibattiti,
 conferenze, ricerche e campagne informative, a diversi livelli: locale, nazionale ed europeo.
+
+Visita il nostro sito [Federconsumatori Terni](http://www.federconsumatoriterni.it/ "Federconsumatori Terni")
