@@ -19,7 +19,7 @@ Persegue finalità di solidarietà sociale, di uguaglianza nel campo della tutel
 civili, per la difesa dell’ambiente, della salute, dei beni comuni, per la qualità e il
 contenimento dei costi nel campo dei servizi. Svolge attività di educazione al consumo
 consapevole, alla tracciabilità, trasparenza e sostenibilità delle filiere produttive e dei
-servizi nei campi della responsabilità sociale, ambientale, economica ed istituzionale.
+servizi nei campi della responsabilità sociale, ambientale, economica e istituzionale.
 
 A.Di.C. Umbria, Toscana e Piemonte sono federate a Movimento Consumatori Nazionale e sono
 componenti del Direttivo Nazionale.
@@ -31,7 +31,7 @@ Visita il nostro sito [ADiC Umbria](http://www.adicumbria.it "ADiC Umbria")
 {{< figure src="/images/logo_federconsumatori.png#c" width="40%" >}}
 
 La Federconsumatori è un’associazione senza scopo di lucro che ha come obiettivi prioritari
-l’informazione e la tutela dei consumatori ed utenti. Alla sua costituzione hanno
+l’informazione e la tutela dei consumatori e utenti. Alla sua costituzione hanno
 contribuito anche esperti di consumismo operanti nell'ambito dell'Università,
 dell'informazione e del Parlamento, impegnati da anni in difesa dei diritti dei consumatori.
 

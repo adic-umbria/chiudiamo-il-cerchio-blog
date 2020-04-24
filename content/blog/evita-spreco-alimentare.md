@@ -16,7 +16,7 @@ Le produzioni degli alimenti, dal punto di vista ambientale, è un processo molt
 quanto riguarda all’elevato consumo d’acqua ed energia e comporta una grande produzione di
 rifiuti e conseguente contaminazione. Per combattere questo spreco ci sono molte iniziative
 come la vendita di prodotti vicini alla data di scadenza o di consumo preferente, prodotti
-etichettati di forma incorretta o impacchettati male che possiamo acquistare ad un prezzo
+etichettati di forma incorretta o impacchettati male che possiamo acquistare a un prezzo
 più basso attraverso le piattaforme digitali o negozi fisici.
 
 Risparmiare cibo significa risparmiare denaro. Ridurre gli sprechi alimentari fa bene al
@@ -32,15 +32,15 @@ acquistare in eccesso alimenti.
 scadenze o consumo preferente. Questi alimenti vengono di solito sono scontati e sono
 sprecati se non sono venduti.
 - Sebbene l'acquisto all'ingrosso possa essere conveniente, le ricerche dimostrano che
-questo metodo di acquisto portano a maggiori sprechi alimentari.
+questo metodo d'acquisto portano a maggiori sprechi alimentari.
 2. Organizza la tua Dispensa
 È importante avere una buona organizzazione della dispensa, mentendo in prima vista gli
-alimenti con data di scadenza prossima, così ti ricorderai di dare precedenza a questi
-alimenti piuttosto di altri. Questo serve anche per il frigorifero ed il congelatore.
+alimenti con data di scadenza prossima, così ti ricorderai di privilegiare questi
+alimenti piuttosto che altri. Questo serve anche per il frigorifero e il congelatore.
 Quando se acquistano gli alimenti in eccesso, la migliore opzione per non fargli rovinare è
 cucinare sempre il giusto e congelare il resto.
 3. Verifica che il tuo frigo faccia il suo lavoro e che la temperatura segnata sia reale.
-4. Non buttare il cibo troppo maturo o ammaccatto, può essere usato per fare dolci, 
+4. Non buttare il cibo troppo maturo o ammaccato, può essere usato per fare dolci, 
 frullati o zuppe.
 5. Riutilizza gli avanzi creando nuove ricette.
 
