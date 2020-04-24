@@ -15,7 +15,7 @@ tags: [
 
 ### CONSUMO COLLABORATIVO
 - Mobilità condivisa: [Car Sharing Perugia](http://www.carsharingperugia.it/ "Car Sharing Perugia"), [Car 2 Go](http://www.car2go.com/IT/it/ "Car 2 Go"), [Uber](http://www.uber.com/it/it/ "Uber"), [Bike Sharing](http://www.bicincitta.com/default.aspx "Bike Sharing")
-- Noleggio d'attrezzature e beni: [Paladintrue](http://paladintrue.com "Paladintrue")
+- Noleggio di attrezzature e beni: [Paladintrue](http://paladintrue.com "Paladintrue")
 - Aloggi condivisi:  [Airbnb](http://www.airbnb.it/ "Airbnb")
 - Scambiare servizi: [Bancadeltempo](http://www.bancadeltempoperugia.it/ "Bancadeltempo")
 
