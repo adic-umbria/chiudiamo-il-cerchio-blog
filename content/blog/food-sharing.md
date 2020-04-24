@@ -15,19 +15,19 @@ tags: [
 Il cibo è qualcosa che unisce. È qualcosa che viene coltivato amorevolmente per mesi prima
 che arrivi nei nostri negozi. È un'attività sociale, un conforto, un essenziale e un lusso.
 Nel nostro pianeta un 33% del cibo prodotto viene sprecato. Nei paesi in via di sviluppo, lo
-spreco avviene durante la produzione agricola, invece nei paesi sviluppati lo spreco
+spreco avviene durante la produzione agricola, invece in quelli sviluppati lo spreco
 alimentare accade soprattutto a livello di consumatore.
 
-Quando si fa spesa, la mancanza di pianificazione, la compra in eccesso e la mancanza
-d’informazione sulle etichette e date di consumo preferente e scadenza sono le principali
+Quando si fa spesa, la mancanza di pianificazione, la compra in eccesso e l'assenza mancanza
+di informazione sulle etichette e date di consumo preferente e scadenza sono le principali
 cause di spreco alimentare.
 Piccole azioni possono aiutare a cambiare questa situazione, come la pianificazione prima di
-fare spesa, portare a casa gli avanzi d’una cena, oppure sfruttare al massimo gli alimenti,
-come in passato, dove tanti piatti tipici sono stati creati per sfruttare gli avanzi del
+fare spesa, portare a casa gli avanzi di una cena, oppure sfruttare al massimo gli alimenti,
+come in passato, dove tanti piatti tipici sono stati creati per valorizzare gli avanzi del
 giorno prima.
 
-Attualmente, esistono diverse applicazioni che ci aiutano a pianificare le spese ed a fare
-dei menù settimanali per comprare solo quello che è necessario, o altre app per comunicare
+Attualmente, esistono diverse applicazioni che ci aiutano a pianificare la spesa e a fare
+dei menù settimanali, e tante altre per metterci in rete 
 con altre persone per condividere gli alimenti che non saranno consumati.
 
 ## La situazione Europea
@@ -47,10 +47,10 @@ sprecato invece, per acquistare eccessiva quantità (58%) e alimenti cucinati in
 
 Considerando i dati della FAO, più di 700 milioni di persone sono in situazione di
 malnutrizione. Quindi, ridurre lo spreco non solo si deve fare per una questione economica
-ed ambientale, ma anche morale.
+e ambientale, ma anche morale.
 
 ## Lo spreco avviene in tutte le fasi della produzione agro-alimentare
 I prodotti alimentari vengono sprecati lungo tutta la filiera alimentare, cioè nelle aziende
-agricole, nella lavorazione e produzione, nei negozi, nei ristoranti e in casa. Come abbiamo
-anticipato prima, nell’UE il 53% corrisponde alle perdite che avvengono a livello domestico
-ed il 19% corrisponde allo spreco a livello industriale.
+agricole, nella lavorazione e produzione, nei negozi, ristoranti, e in casa. Come abbiamo
+anticipato prima, nell’UE il 53% equivale alle perdite che avvengono a livello domestico
+e il 19% corrisponde allo spreco a livello industriale.
