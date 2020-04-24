@@ -44,5 +44,5 @@ ed istituzioni sul tema dell’economia circolare. In particolare si vuole diffo
 lʼaggiornamento e la condivisione di esperienze e buone prassi facendo emergere le opportunità 
 – di ogni cittadino -legate al modello economico circolare.
 
-*Finanziato nell'ambito del Programma annuale 2019 per la tutela dei consumatori e degli utenti” 
+*Finanziato nell'ambito del Programma annuale 2019 per la tutela dei consumatori e degli utenti 
 comma 2 art 6 Legge Regionale n° 17 del 2019*
