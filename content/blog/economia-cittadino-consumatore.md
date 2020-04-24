@@ -3,7 +3,7 @@ title: "Economia Circolare per i Consumatori"
 author: "Inés Corroto"
 date: 2020-04-21T05:00:00+02:00
 type: "page"
-description: "Consigli per seguire uno stilo di vita compatibile con il modello di economia circolare"
+description: "Consigli per seguire uno stile di vita compatibile con il modello di economia circolare"
 tags: [
     "in-app",
 ]
@@ -40,6 +40,6 @@ possibilità di riciclare i contenitori già in proprio possesso.
 - Ripara tutto ciò che è riparabile prima di sostituirlo. Conosci i centri del riuso? La
 realizzazione e la gestione dei centri del riuso consentono di superare e contrastare la
 cultura dell’usa e getta, promuovendo il riutilizzo di beni che altrimenti sarebbero
-destinati ad essere rifiuto, incrementandone la vita utile e di conseguenza riducendo i
+destinati a essere rifiuto, incrementandone la vita utile e di conseguenza riducendo i
 volumi in ingresso ai centri di smaltimento e recupero.
 - Fai e fai fare la Raccolta Differenziata.
