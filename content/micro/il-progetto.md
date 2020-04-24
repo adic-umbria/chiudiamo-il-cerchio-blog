@@ -13,7 +13,7 @@ tags: [
 # Il Progetto
 
 Il progetto nasce con l’intento di diffondere una cultura dell'economia circolare.
-La economia circolare, infatti, non riguarda solo le grandi industrie ma è necessario
+L'economia circolare, infatti, non riguarda solo le grandi industrie ma è necessario
 praticarla anche a livello domestico e locale con l’intervento di cittadini consumatori,
 start up, aziende e istituzioni per attuare uno sviluppo sostenibile salvaguardando
 l’ambiente.
@@ -36,5 +36,13 @@ Si tratta quindi di una economia nella quale la crescita è dissociata dall'impi
 risorse esauribili.
 
 È un sistema progettato per autorigenerarsi: i materiali di origine biologica devono
-rientrare nella biosfera, mentre i materiali di origine tecnica sono pensati per circolare
+rientrare nella biosfera, mentre quelli di origine tecnica sono pensati per circolare
 all'interno del flusso, senza perdere qualità.
+
+La finalità generale del progetto è facilitare lo scambio tra cittadini, mondo dell’impresa 
+ed istituzioni sul tema dell’economia circolare. In particolare si vuole diffondere lʼinformazione, 
+lʼaggiornamento e la condivisione di esperienze e buone prassi facendo emergere le opportunità 
+– di ogni cittadino -legate al modello economico circolare.
+
+*Finanziato nell'ambito del Programma annuale 2019 per la tutela dei consumatori e degli utenti 
+comma 2 art 6 Legge Regionale n° 17 del 2019*
