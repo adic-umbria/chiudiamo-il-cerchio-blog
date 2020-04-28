@@ -28,11 +28,11 @@ per l'economia.
 L'economia circolare può essere definita come un sistema in cui:
 
 > Il valore dei prodotti e dei materiali si mantiene il più a lungo possibile; i rifiuti e
-> l'uso delle risorse sono minimizzati e le risorse mantenute nella economia quando un
+> l'uso delle risorse sono minimizzati e le risorse mantenute nella catena economica quando un
 > prodotto ha raggiunto la fine del suo ciclo vitale, al fine di riutilizzarlo più volte e
 > creare ulteriore valore.
 
-Si tratta quindi di una economia nella quale la crescita è dissociata dall'impiego di
+Si tratta quindi di un sistema economico nel quale la crescita è dissociata dall'impiego di
 risorse esauribili.
 
 È un sistema progettato per autorigenerarsi: i materiali di origine biologica devono
