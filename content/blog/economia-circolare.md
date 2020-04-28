@@ -50,7 +50,7 @@ riciclare, ma anche riusare, trasformare i prodotti in servizi, rendere gli ogge
 riparabili, creare modelli industriali che abbiano impatti rigenerativi sulla società,
 significa ripensare il design dei processi e dei prodotti.
 
-Le "QUATTRO R", Ridurre-Riutilizza-Ripara-Ricicla, costituiscono la base per a transizione
+Le "QUATTRO R", Ridurre-Riutilizza-Ripara-Ricicla, costituiscono la base per la transizione
 da un'economia lineare a una economia circolare.
 
 ## Caratteristiche dell'Economia Circolare
@@ -64,7 +64,7 @@ fare delle scelte quotidiane che inevitabilmente incideranno sulle nostre abitud
 l’applicazione di un modello di economia circolare comporta il cambiamento delle nostre scelte
 quotidiane.
 
-Una economia sostenibile ha come pilastro fondamentale una produzione pulita, ovvero una
+Un'economia sostenibile ha come pilastro fondamentale una produzione pulita, ovvero una
 produzione che genera benefici ambientali e sociali:
 
 1. Simulando i cicli ecologici naturali
@@ -84,21 +84,20 @@ riparazione dei beni prodotti. Crescita dell'industria del riciclaggio.
 
 Anche dal lato delle imprese applicare il modello di economia circolare vuol dire rivedere
 in alcuni casi anche profondamente il loro modello di business. Prima di tutto vuol dire
-progettare i prodotti, ma anche i processi, in modo più sostenibile sia rispetto ai
+ideare i prodotti, ma anche processi, in modo più sostenibile sia rispetto ai
 materiali usati sia rispetto ai consumi ed emissioni in una sola parola "ecodesign". Non
 tutti sanno che i rifiuti prodotti dalle imprese sono circa cinque volte rispetto a quelli
 prodotti dai cittadini.
 
 Questo vuol dire che la possibilità di recupero e di applicazione del modello dell’economia
 circolare conviene in modo notevole alle imprese stesse prima di tutto. Meno rifiuti e meno
-emissioni vuol dire anche un ambiente di vita migliore. Questo dobbiamo pretendere dal
-nostro sistema economico. Inoltre, tale modello di economia genera inevitabilmente nuova
-occupazione e nuove imprese che permetteranno di recuperare sia i materiali prodotti dai
-cittadini che quelli prodotti dal mondo industriale, e saranno tanto più vantaggiose quanto
-più efficace sarà la tecnologia che si userà per il recupero.
+emissioni vuol dire anche un ambiente di vita migliore. Inoltre, tale modello economico 
+genera inevitabilmente nuova occupazione e nuove imprese che permetteranno di recuperare 
+sia i materiali prodotti dai cittadini che quelli prodotti dal mondo industriale,
+e saranno tanto più vantaggiose quanto più efficace sarà la tecnologia che si userà per il recupero.
 
-Le istituzioni a tutti i livelli devono essere quelle che costruiscono le condizioni perché
-questo modello possa essere applicato, muovendo sia le leve della legislazione che quelle
-della finanza al fine di favorirne l’applicazione. L’Europa è il primo continente al mondo
-che ne sta facendo un modello di sviluppo per gli stati membri, dobbiamo tutti contribuire
+L'informazione a tutti i livelli costituisce la condizione per permettere a tale modello
+di essere applicato, muovendo sia le leve della legislazione che quelle
+della finanza al fine di favorirne l’attuazione. L’Europa è il primo continente al mondo
+che ne sta facendo un esempio di sviluppo per gli stati membri, dobbiamo tutti contribuire
 affinché ciò avvenga nel più breve tempo possibile, ce lo chiede il pianeta.
