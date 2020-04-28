@@ -16,10 +16,10 @@ tags: [
 - Acquista beni durevoli, facilmente riciclabili, riutilizzabili e riparabili, prodotti con
 materiali riciclati o provenienti da fonti rinnovabili, che nel loro uso quotidiano
 comportano, rispetto ad altri beni simili un più basso consumo di energia o di acqua e che
-magari presentino nella loro etichetta simboli come l'ecolabel o altre tipologie di
+magari presentino nella loro etichetta simboli come ecolabel o altre tipologie di
 etichette ambientali.
 - C’è sempre una seconda opzione, scegli quella che segue il modello circolare. Preferisci i
-prodotti con meno imballaggi o con imballaggi riciclabili. Lo sai che gli imballaggi
+prodotti con meno imballaggi o con confezioni riciclabili. Lo sai che gli imballaggi
 costituiscono più del 50% dei Rifiuti Solidi Urbani?.
 - Evita di comprare se puoi affittare/noleggiare/prendere in prestito. Il "collaborative
 consumption" sta trasformando i business, il consumo stesso, così come gli stili di vita, in
@@ -41,5 +41,5 @@ possibilità di riciclare i contenitori già in proprio possesso.
 realizzazione e la gestione dei centri del riuso consentono di superare e contrastare la
 cultura dell’usa e getta, promuovendo il riutilizzo di beni che altrimenti sarebbero
 destinati a essere rifiuto, incrementandone la vita utile e di conseguenza riducendo i
-volumi in ingresso ai centri di smaltimento e recupero.
+volumi in ingresso nei centri di smaltimento e recupero.
 - Fai e fai fare la Raccolta Differenziata.
