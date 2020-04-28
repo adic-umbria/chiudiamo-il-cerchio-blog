@@ -18,7 +18,7 @@ Nel nostro pianeta un 33% del cibo prodotto viene sprecato. Nei paesi in via di 
 spreco avviene durante la produzione agricola, invece in quelli sviluppati lo spreco
 alimentare accade soprattutto a livello di consumatore.
 
-Quando si fa spesa, la mancanza di pianificazione, la compra in eccesso e l'assenza mancanza
+Quando si fa spesa, la mancanza di pianificazione, l'acquisto in eccesso e l'assenza mancanza
 di informazione sulle etichette e date di consumo preferente e scadenza sono le principali
 cause di spreco alimentare.
 Piccole azioni possono aiutare a cambiare questa situazione, come la pianificazione prima di
@@ -41,16 +41,16 @@ I dati pubblicati per l’Osservatorio Waste Watcher ogni anno in Italia si butt
 milioni di tonnellate di cibo commestibile, che pro capite si traduce in 27,5 kg/anno. Di
 queste cifre, 7 kg corrispondono a vegetali, quasi 5 kg di latticini e 4’5 kg di frutta
 all’anno. I principali motivi per cui il cibo finisce nella spazzatura sono il cibo scaduto
-(63%) oppure non è più in condizioni igieniche (53%). In meno occasioni il cibo viene
-sprecato invece, per acquistare eccessiva quantità (58%) e alimenti cucinati in eccesso
-(43%).
+(63%) oppure per scarse condizioni igieniche (53%). In percentuale minore, lo spreco
+alimentare riguarda l'eccessiva quantità di cibo acquistato (58%) e alimenti cucinati in eccesso (43%).
 
 Considerando i dati della FAO, più di 700 milioni di persone sono in situazione di
-malnutrizione. Quindi, ridurre lo spreco non solo si deve fare per una questione economica
+malnutrizione. Quindi, ridurre lo spreco non riguarda solo una questione economica
 e ambientale, ma anche morale.
 
 ## Lo spreco avviene in tutte le fasi della produzione agro-alimentare
-I prodotti alimentari vengono sprecati lungo tutta la filiera alimentare, cioè nelle aziende
-agricole, nella lavorazione e produzione, nei negozi, ristoranti, e in casa. Come abbiamo
-anticipato prima, nell’UE il 53% equivale alle perdite che avvengono a livello domestico
-e il 19% corrisponde allo spreco a livello industriale.
+Lo spreco alimentare si presenta in tutte le fasi della catena produttiva: dal raccolto nelle aziende
+agricole, passando per la lavorazione e produzione, fino alla sua commercializzazione
+nei negozi al dettaglio, ristoranti e ambiente domestico. Come abbiamo anticipato prima,
+nell’UE il 53% equivale alle perdite che avvengono a livello domestico ed il 19% corrisponde
+allo spreco a livello industriale.
