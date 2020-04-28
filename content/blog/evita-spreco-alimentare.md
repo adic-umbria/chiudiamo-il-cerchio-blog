@@ -34,12 +34,14 @@ del prodotto e si evita un inutile spreco per il bene comune.
 - Sebbene l'acquisto all'ingrosso possa essere conveniente, le ricerche dimostrano che
 questo metodo d'acquisto porta a maggiori sprechi alimentari.
 2. Organizza la tua Dispensa
+
 È importante avere una buona organizzazione della dispensa, mettendo in evidenza gli
 alimenti con data di scadenza prossima, così ti ricorderai di privilegiare questi
 beni piuttosto che altri. Questo serve anche per il frigorifero e il congelatore.
 Quando si acquistano alimenti in esubero, la migliore opzione per non farli deperire è
 cucinare lo stretto necessario e congelare il resto.
-3. Verifica che il tuo frigo faccia il suo lavoro e che la temperatura segnata sia reale.
+
+3. Verifica l'efficienza e la corretta temperatura del tuo frigorifero.
 4. Non buttare il cibo troppo maturo o rovinato, può essere usato per fare dolci, 
 frullati o zuppe.
 5. Riutilizza gli avanzi creando nuove ricette.
@@ -47,7 +49,8 @@ frullati o zuppe.
 ## Associazioni Anti-spreco
 
 ### WHY NOK
-In Puglia è nato Why Nok, da una idea per combattere gli sprechi nei campi e recuperare la
+In Puglia è nato Why Nok,  primo movimento italiano formatosi per 
+combattere gli sprechi nei campi e recuperare la
 frutta e verdura che non verrà venduta per problematiche estetiche.
 
 ### FOODBUSTERS
