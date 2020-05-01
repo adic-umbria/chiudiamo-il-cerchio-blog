@@ -11,7 +11,7 @@ tags: [
 
 # Link Utili
 
-## Economia Circolare
+## ECONOMIA CIRCOLARE
 
 ### CONSUMO COLLABORATIVO
 - Mobilità condivisa: [Car Sharing Perugia](http://www.carsharingperugia.it/ "Car Sharing Perugia"), [Car 2 Go](http://www.car2go.com/IT/it/ "Car 2 Go"), [Uber](http://www.uber.com/it/it/ "Uber"), [Bike Sharing](http://www.bicincitta.com/default.aspx "Bike Sharing")
@@ -43,3 +43,11 @@ tags: [
 - Recupero di cibo: [Banco alimentare](https://www.bancoalimentare.it/it "Banco alimentare")
 - [Consigli per non sprecare](https://ec.europa.eu/food/sites/food/files/safety/docs/fw_lib_tips_stop_food_waste_it.pdf "Consigli per non sprecare")
 - Associazioni contro lo spreco: [Why Nok](http://www.whynok.com/ "Why Nok"), [Foodbusters](http://www.foodbusters.it/ "Foodbusters"), [Too Good To Go](https://toogoodtogo.it/it "Too Good To Go")
+
+# Link Approfondimento
+**ECONOMIA CIRCOLARE:** [Fondazione EllenMacArthur](https://www.ellenmacarthurfoundation.org "Fondazione EllenMacArthur")
+
+**BUONE PRATICHE PER IL CONSUMO:**  
+- Obsolescenza programmata: [Definizione obsolescenza](http://www.treccani.it/enciclopedia/obsolescenza-programmata/ "Definizione obsolescenza"),
+[Cos'è obsolescenza programmata](https://www.fastweb.it/smartphone-e-gadget/obsolescenza-programmata-cos-e-e-come-combatterla/ "Cos'è obsolescenza programmata")
+- Etichette ambientali: [Etichette ambientali](http://www.provincia.torino.gov.it/ambiente/file-storage/download/agenda21/pdf/acquisti_pubblici_ecologici/corsi_formazione/ottobre2012_glisoni_arpa.pdf "Etichette ambientali")
