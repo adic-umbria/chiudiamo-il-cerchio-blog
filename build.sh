@@ -3,7 +3,7 @@
 # Config:
 # Update `API_VERSION` when values are going to change
 API_SLUG="api"
-API_VERSION="0"
+API_VERSION="1"
 
 # Clear 'public' folder
 if [[ -d "public" ]]
