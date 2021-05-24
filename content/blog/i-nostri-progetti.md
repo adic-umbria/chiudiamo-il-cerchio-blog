@@ -18,13 +18,19 @@ conoscere opportunità e trovare supporto per le piccole scelte della vita quoti
 della propria attività, improntate ai principi dell’economia circolare tramite i due punti informativi.
 
 A Perugia:
-In via Pievaiola 10, il primo mercoledì del mese e il primo giovedì del mese dalle  ore 15:00 alle 18:00.
+In via Pievaiola 10, su appuntamento tutti i lunedì dalle ore 15:00 alle 18:00 e i mercoledì dalle ore 9:00 alle 12:00.
+Tel 0755004728 - 3200171746
+adic.umbria@gmail.com 
+www.adicumbria.com
 
-A Terni: In via S. Procolo 8,tutti i giovedì dalle ore 9:00 alle 12:00.
+A Terni: In via S. Procolo 8, su appuntamento tutti i martedì e giovedì dalle ore 9:00 alle 12:00.
+Tel 074496239
+federconsumatori.terni@umbria.cgil.it
+wwww.federconsumatoriterni.it/
 
 ## PRONTO “EMERGENZA FUTURO”
 
-Dal 1 febbraio al 30 giugno sono attivi i nostri numeri telefonici a disposizione di cittadini, 
+Dal 1 febbraio sono attivi i nostri numeri telefonici a disposizione di cittadini, 
 consumatori e imprese per rispondere sulle tematiche dell’economia circolare, sostenibilità e spreco alimentare,
 per aiutarvi nelle piccole scelte nella vita quotidiana per chi intende attuare buone pratiche ambientali e
 seguire uno stile di vita rispettoso per l’ambiente.
@@ -46,7 +52,6 @@ Scarica PDF Risparmio Acqua:
 
 ## LA CASSETTA DEGLI ATTREZZI: Incontriamo gli esperti 
 
-##### DATA DA DEFINIRE
 
 Saranno previsti 3 incontri: con i cittadini, residenti stranieri e studenti universitari
 con l'obiettivo di fornire ai cittadini e ai consumatori tutte le informazioni necessarie 
@@ -55,7 +60,6 @@ a quali fornitori rivolgersi, ecc).
 
 ## SGUARDI: Il racconto delle best practies
 
-##### DATA DA DEFINIRE
 
 L’intervento prevede un ciclo di 4 incontri con alcune realtà imprenditoriali 
 eccellenti in materia di economia circolare.
@@ -69,7 +73,6 @@ sulle imprese e sull’intero sistema economico-produttivo e sulla vita dei sing
 
 ## FUTURO: A scuola di economia circolare
 
-##### DATA DA DEFINIRE
 
 Il futuro si impara da piccoli, per questo è necessario che la consapevolezza delle buone pratiche 
 nasca già sui libri di scuola. La scuola ha il compito di formare i cittadini consapevoli,
