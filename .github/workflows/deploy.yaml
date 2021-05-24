@@ -13,7 +13,13 @@ jobs:
 
     steps:
     - name: Prepare the build environment
-      run: pacman -Syu tree hugo git --noconfirm
+      run: pacman -Syu tree git --noconfirm
+
+    # Breaking change: since Hugo 0.73.0 there is a breaking change that requires
+    # a site update. As a workaround, we downgrade Hugo to an earlier version.
+    # For more details check https://gohugo.io/news/0.73.0-relnotes/
+    - name: Use Hugo 0.72.0
+      run: pacman -U https://archive.archlinux.org/packages/h/hugo/hugo-0.72.0-1-x86_64.pkg.tar.zst --noconfirm
 
     - name: Checkout
       uses: actions/checkout@v2
